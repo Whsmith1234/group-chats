@@ -86,7 +86,7 @@ function App() {
     <div>
       
         
-      
+      <div class = "container">
         <div class = "chatArea">
           <div class="row chat-window">
             <div class="col s10">
@@ -99,6 +99,7 @@ function App() {
           </div>
         </div>
      </div>
+    </div>
 
 
   );
